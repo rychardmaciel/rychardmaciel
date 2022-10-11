@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rychardmaciel
 - 👀 I’m interested in data science and AI
-- 🌱 I’m currently learning Full Stack Web Development
+- 🌱 I’m currently learning data science, AI and Full Stack Web Development
 - 💞️ I’m looking to collaborate on development and applications
 - 📫 How to reach me https://www.linkedin.com/in/rychard-maciel-b03410a9/
 
